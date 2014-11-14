@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name               = "GeoParser"
-  s.version            = "0.0.1"
+  s.version            = "0.0.2"
   s.default_executable = "gp"
 
   s.authors = ["Michael Hiland"]

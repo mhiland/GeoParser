@@ -8,5 +8,5 @@ Ruby gem to mine locations from a given string of text.
 Gemfile:
 
 ```ruby
-gem 'GeoParser',         '0.0.1'
+gem 'GeoParser',         '0.0.2'
 ```
